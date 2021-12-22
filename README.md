@@ -1,6 +1,6 @@
-# firstapp
+# recipeapp
 
-A new Flutter project.
+A Flutter project with getx package
 
 ## Getting Started
 
