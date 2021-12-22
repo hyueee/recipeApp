@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Main dishes",
+    "img": "images/main_dishes.jpg"
+  },
+  {
+    "name": "Side dishes",
+    "img": "images/side_dishes.jpg"
+  },
+  {
+    "name": "Soups",
+    "img": "images/soups.jpg"
+  },
+  {
+    "name": "Desserts",
+    "img": "images/desserts.jpg"
+  },
+  {
+    "name": "Appetizers",
+    "img": "images/appetizer.jpg"
+  },
+  {
+    "name": "Bakery goods",
+    "img": "images/bakery.jpg"
+  },
+  {
+    "name": "Beverages",
+    "img": "images/beverage.jpg"
+  },
+  {
+    "name": "Others",
+    "img": "images/others.jpg"
+  }
+]
